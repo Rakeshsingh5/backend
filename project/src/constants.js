@@ -1,2 +1,2 @@
-export const  DB_NAME = "baackenddyoutube";
+export const  DB_NAME = "backenddyoutube";
 
